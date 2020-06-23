@@ -3753,6 +3753,9 @@ input, select, textarea {
 				#banner .more {
 					display: none;
 				}
+			.inner{
+				padding: 7em 3em 5em 3em ;
+			}	
 
 		}
 
