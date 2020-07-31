@@ -2603,6 +2603,19 @@ input, select, textarea {
 				background-color: rgba(0, 0, 0, 0.35);
 			}
 
+			.features li:nth-child(11) {
+				background-color: rgba(0, 0, 0, 0.37);
+			}
+
+			.features li:nth-child(12) {
+				background-color: rgba(0, 0, 0, 0.39);
+			}
+
+			.features li:nth-child(13) {
+				background-color: rgba(0, 0, 0, 0.41);
+			}
+
+
 			.features li:before {
 				display: block;
 				color: #00ffcc;
@@ -2656,8 +2669,16 @@ input, select, textarea {
 					.features li:first-child {
 						border-top: 0;
 					}
+				.huathoe_image_container li {
+						padding: 3em 0 1em 0 ;
+						background-color: transparent !important;
+						width: 100%;
+					}
+	
+	
 
 			}
+			
 
 /* Spotlight */
 
